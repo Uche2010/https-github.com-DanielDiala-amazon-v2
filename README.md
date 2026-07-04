@@ -1,4 +1,4 @@
-# https-github.com-DanielDiala-amazon-v2
+https://github.com/DanielDiala/amazon-v2
 BUS6140
 <section id="home">
     <h1>All You Need, Delivered Fast</h1>
